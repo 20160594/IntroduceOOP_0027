@@ -28,3 +28,10 @@ int main(){
     elektronik.jumlah = 10;
     elektronik.kategori = "Elektronik";
     elektronik.tanggalProduksi = "15 Januari 2024";
+
+    // Object kedua: barang non-elektronik
+    Barang nonElektronik;
+    nonElektronik.nama = "Meja Kayu";
+    nonElektronik.jumlah = 25;
+    nonElektronik.kategori = "Furniture";
+    nonElektronik.tanggalProduksi = "20 Februari 2024";
