@@ -4,4 +4,5 @@ class Mahasiswa
 {
 public: //akses modifier
     int NIM;
+    string nama;
     
