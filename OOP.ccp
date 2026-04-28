@@ -21,4 +21,10 @@ public: //akses modifier
     }
 };
 
-int main()
+int main(){
+    // Object pertama: barang elektronik
+    Barang elektronik;
+    elektronik.nama = "Laptop";	
+    elektronik.jumlah = 10;
+    elektronik.kategori = "Elektronik";
+    elektronik.tanggalProduksi = "15 Januari 2024";
