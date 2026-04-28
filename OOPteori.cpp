@@ -7,4 +7,5 @@ public: //akses modifier
     string nama;
     float nilai;
 
-    
+    void printData()
+   
