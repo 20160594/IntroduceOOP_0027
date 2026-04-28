@@ -40,4 +40,8 @@ int main(){
     cout << "\n>>> DATA BARANG ELEKTRONIK <<<" << endl;
     elektronik.printData();
 
+    // Menampilkan data barang non-elektronik
+    cout << "\n>>> DATA BARANG NON-ELEKTRONIK <<<" << endl;
+    nonElektronik.printData();
+
     
