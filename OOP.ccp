@@ -35,3 +35,7 @@ int main(){
     nonElektronik.jumlah = 25;
     nonElektronik.kategori = "Furniture";
     nonElektronik.tanggalProduksi = "20 Februari 2024";
+
+    // Menampilkan data barang elektronik
+    cout << "\n>>> DATA BARANG ELEKTRONIK <<<" << endl;
+    
