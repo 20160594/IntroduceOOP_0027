@@ -13,4 +13,7 @@ public: //akses modifier
         cout << "Nama = " << nama << endl;
         cout << "Nilai = " << nilai << endl;
     }
+};
+
+int main()
 
