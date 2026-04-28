@@ -38,4 +38,6 @@ int main(){
 
     // Menampilkan data barang elektronik
     cout << "\n>>> DATA BARANG ELEKTRONIK <<<" << endl;
+    elektronik.printData();
+
     
