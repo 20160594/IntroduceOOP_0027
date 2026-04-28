@@ -19,3 +19,6 @@ public: //akses modifier
         cout << "Tanggal Produksi : " << tanggalProduksi << endl;
         cout << "=========================" << endl;
     }
+};
+
+int main()
