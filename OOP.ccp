@@ -44,4 +44,5 @@ int main(){
     cout << "\n>>> DATA BARANG NON-ELEKTRONIK <<<" << endl;
     nonElektronik.printData();
 
-    
+    return 0;
+}
